@@ -2,6 +2,10 @@
 
 This document explains the project in the order it was developed. It is written as a study guide for a live Django demonstration.
 
+## Repository Location
+
+This assignment is stored in the `django/practice2_library/` folder of the `Python_LAB` repository. The Git repository root is `Python_LAB`, while `practice2_library` is the Django project root because it contains `manage.py`. The project's `.venv/` is a local environment and is excluded from version control by `.gitignore`; `db.sqlite3` is kept with the project files.
+
 ## Phase 1-2: Workspace, Virtual Environment, Project, and App
 
 The project root is `practice2_library`. A Python virtual environment named `.venv` keeps the project's packages separate from the system Python installation. On Windows PowerShell, it can be activated with:
