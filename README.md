@@ -13,5 +13,3 @@ Python_LAB/
 └── django/
     └── practice2_library/
 ```
-
-Future Python assignments can be added as separate folders in this repository.
